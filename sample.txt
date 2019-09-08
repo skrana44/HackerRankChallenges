@@ -1,2 +1,0 @@
-This is created during DevOps course and can be deleted after the corse
-One line is added to this file
